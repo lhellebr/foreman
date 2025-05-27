@@ -9,7 +9,7 @@
 
 From **provisioning** and **configuration** to **orchestration** and **monitoring**, Foreman integrates with your existing infrastructure to make operations easier.
 
-* Website: [theforeman.org](https://theforeman.org)
+* Website: [theforeman.org](https://theforeman.com)
 * ServerFault tag: [Foreman](https://serverfault.com/questions/tagged/foreman)
 * Issues: [Redmine](https://projects.theforeman.org/issues)
 * Wiki: [Foreman wiki](https://projects.theforeman.org/projects/foreman/wiki/About)
